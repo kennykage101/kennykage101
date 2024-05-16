@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah Adelakun a.k.a KennyKage
-- 👀 I’m interested in web development,python programming and ethical hacking.
-- 🌱 I’m currently learning web development, data analysis using python and ethical hacking
-- 💞️ I’m looking to collaborate on projects to get real-world experience
+- 👀 I’m interested in web development, python programming, and ethical hacking.
+- 🌱 I’m currently learning Python and ethical hacking
+- 💞️ I’m available for job opportunities(remote or in my location) in full-stack web development
 - 📫 How to reach me: send a mail to elijahadelakun101@gmail.com
 
 <!---
